@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sample HTML File</title>
+	<title>Sample PHP File</title>
 </head>
 <body>
 	<h1>Sample PHP Document</h1>
